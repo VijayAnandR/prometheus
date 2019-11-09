@@ -270,6 +270,9 @@ data:
 
       # The API URL to use for Slack notifications.
       slack_api_url: 'https://hooks.slack.com/services/some/api/token'
+      opsgenie_api_key: '0ddc6faa-5392-4880-97fa-c25868f3a28f'  
+      opsgenie_api_url: 'luminatecpe.app.opsgenie.com'           
+
 
     # # The directory from which notification templates are read.
     templates:
